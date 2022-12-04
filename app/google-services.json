@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "871269003946",
+    "project_id": "pet-care-ee051",
+    "storage_bucket": "pet-care-ee051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871269003946:android:f0fb1be7c1862befe0d6d3",
+        "android_client_info": {
+          "package_name": "com.codingsick.petcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871269003946-dp813qrulnnrqmm573p5sbhffokbkr0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingsick.petcare",
+            "certificate_hash": "7a739f0cf607a40817e8310aa63e0dcd670bba39"
+          }
+        },
+        {
+          "client_id": "871269003946-g6s675i9iihlu570dlcbim8871t69oj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sh30_kFFtvd_0QW7fxdrLKXWe7E51EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871269003946-g6s675i9iihlu570dlcbim8871t69oj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871269003946:android:09f0dd019b28ff14e0d6d3",
+        "android_client_info": {
+          "package_name": "com.codingsick.sharelayout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871269003946-g6s675i9iihlu570dlcbim8871t69oj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sh30_kFFtvd_0QW7fxdrLKXWe7E51EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871269003946-g6s675i9iihlu570dlcbim8871t69oj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
